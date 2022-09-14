@@ -1,4 +1,4 @@
-## Oi eu sou o GuilhermeFreitas1.
+## Oi eu sou o Guilherme Freitas.
 
 #### -Atualmente trabalho com Web Design.
 #### -Estou estudando PHP e MySQL.
