@@ -1,7 +1,7 @@
 ## Oi eu sou o Guilherme Freitas.
 
-#### -Atualmente trabalho com Web Design.
-#### -Estou estudando PHP e MySQL.
+#### -Desenvolvedor Web.
+#### -Estudando PHP e MySQL.
 #### -Cursando faculdade de Engenharia de Software.
 
 ### Trabalhos já feitos:
