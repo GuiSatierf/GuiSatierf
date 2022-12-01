@@ -1,11 +1,8 @@
-## Oi eu sou o Guilherme Freitas.
+## Oii meu nome é Guilherme Freitas.
 
 #### -Desenvolvedor Web.
 #### -Estudando PHP e MySQL.
 #### -Cursando faculdade de Engenharia de Software.
-
-### Trabalhos já feitos:
-#### <a>https://suyigarden.com/</a>
 
 ##
 
