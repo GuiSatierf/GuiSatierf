@@ -1,7 +1,6 @@
 ## Oii meu nome é Guilherme Freitas.
 
 #### -Desenvolvedor Web.
-#### -Estudando PHP e MySQL.
 #### -Cursando faculdade de Engenharia de Software.
 
 ##
