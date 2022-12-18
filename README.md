@@ -1,7 +1,7 @@
 ## Oii meu nome é Guilherme Freitas.
 
-#### -Desenvolvedor Web.
-#### -Cursando Faculdade de Engenharia de Software.
+#### Sou tentanto me tornar Desenvolvedor de Aplicações Web e
+estou cursando faculdade de Engenharia de Software.
 
 ##
 
