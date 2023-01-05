@@ -6,8 +6,8 @@
 ##
 
 <div align="center">
-  <a href="https://github.com/GuilhermeFreitas1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeFreitas1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/GuiSatierf">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuiSatierf&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
   
 <div style="display: inline_block"><br>
