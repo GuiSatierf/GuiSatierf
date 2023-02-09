@@ -1,6 +1,6 @@
 ## Olá meu nome é Guilherme Freitas.
 
-#### Estou tentando a vida na área de TI, aprendendo a desenvolver Aplicações Web e estou cursando faculdade de Engenharia de Software.
+#### Estou tentando a vida na área de TI aprendendo a desenvolver Aplicações Web e estou cursando faculdade de Engenharia de Software.
 #### Atualmente só conheço o JavaScript, mas estou aprendendo sobre a linguagem Java e suas Frameworks, além disso, também estudo sobre Banco de Dados.
 
 ##
