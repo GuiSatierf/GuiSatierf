@@ -1,19 +1,13 @@
-## Oii meu nome é Guilherme Freitas.
+## Olá meu nome é Guilherme Freitas.
 
-#### Sou tentanto me tornar Desenvolvedor de Aplicações Web e
-#### estou cursando faculdade de Engenharia de Software.
+#### Estou tentando a vida na área de TI, aprendendo a desenvolver Aplicações Web e estou cursando faculdade de Engenharia de Software.
+#### Atualmente só conheço o JavaScript, mas estou aprendendo sobre a linguagem Java e suas Frameworks, além disso, também estudo sobre Banco de Dados.
 
 ##
 
 <div align="center">
   <a href="https://github.com/GuiSatierf">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuiSatierf&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Gui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gui-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
   ##
