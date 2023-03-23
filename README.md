@@ -1,20 +1,31 @@
-## Olá meu nome é Guilherme Freitas.
+Olá 👋 Meu nome é GUilherme Freitas
+==========================
 
-#### Estou tentando a vida na área de TI aprendendo a desenvolver Aplicações Web e estou cursando faculdade de Engenharia de Software.
-#### Atualmente só conheço o JavaScript, mas estou aprendendo sobre a linguagem Java e suas Frameworks.
+Desenvolvedor Web Front-end
+-----------------------------
 
-##
+Faço faculdade de Engenharia de Software na [Unicesumar](https://www.unicesumar.edu.br/home/), sou desenvolvedor front-end e estudo constantemente Java por ser ótima para o desenvolvimento de aplicações web além de ter múltiplas funcionalidades e por está presente em todos os lugares.
 
-<div align="center">
-  <a href="https://github.com/GuiSatierf">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuiSatierf&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://instagram.com/gu1lhermefr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/guilherme-freitas-149b64244/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+* 🌍  Moro em Bom Jesus Piauí, Brasil
+* ✉️  Email de contato [guifreitas343@gmail.com](mailto:guifreitas343@gmail.com)
+* 🚀  Atualmente trabalho de freelancer.
+* 🧠  Estou aprendendo Java.
+* 🐾  Amante de animais.
+
+<a href="https://www.github.com/GuiSatief" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/GuiSatierf?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
+
+### Habilidades
+
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/Java" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Javascript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+</p>
+
+### Socials
+
+<p align="left"> <a href="https://discord.com/users/Gui#1126" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/GuiSatief" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/guilherme-freitas-149b64244/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
   
  ![snake gif](https://github.com/GuiSatierf/GuiSatierf/blob/output/github-contribution-grid-snake.svg)
  
