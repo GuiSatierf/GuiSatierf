@@ -6,7 +6,7 @@ Desenvolvedor Web Front-end
 
 Tenho 19 anos, sou Desenvolvedor Web, curso faculdade de Engenharia de Software na [Unicesumar](https://www.unicesumar.edu.br/home/) e estudo constantemente Java por ser ótima para o desenvolvimento de aplicações web além de ter múltiplas funcionalidades e por está presente em todos os lugares.
 
-* 🌍  Moro em Bom Jesus Piauí, Brasil
+* 🌍  Moro em Bom Jesus PI, Brasil
 * ✉️  Email de contato [guifreitas343@gmail.com](mailto:guifreitas343@gmail.com)
 * 🚀  Atualmente trabalho de freelancer.
 * 🧠  Estou aprendendo Java.
