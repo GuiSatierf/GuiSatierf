@@ -8,7 +8,7 @@ Tenho 19 anos, sou Desenvolvedor Web, curso faculdade de Engenharia de Software 
 
 * 🌍  Moro em Bom Jesus PI, Brasil
 * ✉️  Email de contato [guifreitas343@gmail.com](mailto:guifreitas343@gmail.com)
-* 🚀  Atualmente trabalho de freelancer.
+* 🚀  Atualmente trabalho como freelancer.
 * 🧠  Estou aprendendo Java.
 * 🐾  Amante de animais.
 
