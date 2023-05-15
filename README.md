@@ -12,9 +12,6 @@ Tenho 19 anos, curso faculdade de Engenharia de Software na [Unicesumar](https:/
 * 🧠  Estou aprendendo Java.
 * 🐾  Amante de animais.
 
-<a href="https://www.github.com/GuiSatierf" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/GuiSatierf?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
-
 ### Habilidades
 
 <p align="left">
