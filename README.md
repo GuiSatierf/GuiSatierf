@@ -4,13 +4,14 @@ Olá 👋 Meu nome é Guilherme Freitas
 Desenvolvedor Web Front-end
 -----------------------------
 
-Tenho 19 anos, curso faculdade de Engenharia de Software na [Unicesumar](https://www.unicesumar.edu.br/home/) e estudo constantemente Java por ser ótima para o desenvolvimento de aplicações web além de ter múltiplas funcionalidades e por está presente em todos os lugares.
+Tenho 19 anos, curso faculdade de Engenharia de Software na [Unicesumar](https://www.unicesumar.edu.br/home/) e estudo constantemente tecnologias sobre desenvolvimento de aplicações web.
 
 * 🌍  Moro em Bom Jesus PI, Brasil
 * ✉️  Email de contato [guifreitas343@gmail.com](mailto:guifreitas343@gmail.com)
 * 🚀  Atualmente trabalho como freelancer.
-* 🧠  Estou aprendendo Java.
+* 🧠  Constantemente aprendendo algo novo.
 * 🐾  Amante de animais.
+* ☕  Café é meu combustível.
 
 ### Habilidades
 
