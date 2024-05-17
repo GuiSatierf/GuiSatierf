@@ -1,4 +1,4 @@
-Olá 👋 Meu nome é Guilherme Freitas
+Olá 😺 Meu nome é Guilherme Freitas
 ==========================
 
 Desenvolvedor Web Front-end
