@@ -8,7 +8,7 @@ Tenho 20 anos curso faculdade de Engenharia de Software na [Unicesumar](https://
 Me dedico constantemente ao estudo de tecnologias de desenvolvimento para aplicações web
 atualmente tenho 2 anos de experiência com front-end.
 
-* 🌍  Moro em Bom Jesus PI, Brasil
+* 🌍  Moro em Teresina PI, Brasil
 * ✉️  Email de contato [guifreitas343@gmail.com](mailto:guifreitas343@gmail.com)
 * 🚀  Atualmente trabalho como freelancer.
 * 🧠  Constantemente aprendendo algo novo.
