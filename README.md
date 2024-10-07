@@ -4,7 +4,7 @@ Olá 👋 Meu nome é Guilherme Freitas
 Desenvolvedor Web Front-end
 -----------------------------
 
-Tenho 20 anos e estou no segundo ano da faculdade de Engenharia de Software na [Unicesumar](https://www.unicesumar.edu.br/home/).
+Tenho 20 anos curso faculdade de Engenharia de Software na [Unicesumar](https://www.unicesumar.edu.br/home/).
 Me dedico constantemente ao estudo de tecnologias de desenvolvimento para aplicações web
 atualmente tenho 2 anos de experiência com front-end.
 
