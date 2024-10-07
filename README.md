@@ -1,18 +1,44 @@
-Hi there, I am Guilherme Freitas 👋
-and I am a passionate Front-end Web Developer with a keen focus on web applications!
+![](https://komarev.com/ghpvc/?username=GuiSatierf&color=006bed)
 
-🌍 I live in Teresina, PI, Brazil.
-🚀 Currently working as a freelancer and constantly learning new technologies.
-🧠 With 2 years of experience in front-end development, I'm always eager to improve my skills.
-🎓 Studying Software Engineering at Unicesumar.
-🐾 Animal lover, and yes, coffee is my fuel ☕.
-<div align="center"> <a href="https://github.com/GuiSatierf"><img src="https://github-readme-stats.vercel.app/api?username=GuiSatierf&show_icons=true&hide=contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="GuiSatierf's GitHub stats" /></a> </div>
-If you are interested in working together or just want to chat, feel free to reach out!
+## Sobre mim
 
-Contact Information
-✉️ Email: guifreitas343@gmail.com
-💻 GitHub: GuiSatierf
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 Estudando **Engenharia de Software** na [Unicesumar](https://www.unicesumar.edu.br/home/).
+- 💼 Trabalhando como **Desenvolvedor Front-end** freelancer.
+- 🌱 Aprendendo mais sobre **JavaScript, React e Desenvolvimento Responsivo**.
 
-Skills
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a> <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a> </p>
-Hope to connect with you soon!
+## Minhas Skills
+
+**Aplicações e dados**
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
+
+**Utilidades**
+
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+
+**DevOps**
+
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+
+**Ferramentas de desenvolvimento**
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=intellijidea&logoColor=000000)
+![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-333333?style=flat&logo=adobe-photoshop&logoColor=31A8FF)
+
+<br/>
+
+<a href="https://github.com/GuiSatierf" title="Perfil do Guilherme">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuiSatierf&theme=dracula&show_icons=true" />
+</a>
+
+## Onde me encontrar
+
+[![Gmail Badge](https://img.shields.io/badge/-guifreitas343@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guifreitas343@gmail.com)](mailto:guifreitas343@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/GuiSatierf?label=follow&style=social)](https://github.com/GuiSatierf)
