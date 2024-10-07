@@ -12,7 +12,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![SaaS]([https://img.shields.io/badge/-SaaS-333333?style=flat&logo=cloudsmith&logoColor=47A248](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white))
+![SaaS](https://img.shields.io/badge/SaaS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb&logoColor=47A248)
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
@@ -40,6 +40,6 @@
 
 ## Onde me encontrar
 
-[![Discord Badge](https://img.shields.io/badge/-ryou-7289DA?style=flat-square&logo=Discord&logoColor=white&link=https://discordapp.com/users/ryoou)](https://discordapp.com/users/ryoou)
+[![Discord Badge](https://img.shields.io/badge/-ryoou-7289DA?style=flat-square&logo=Discord&logoColor=white&link=https://discordapp.com/users/ryoou)](https://discordapp.com/users/ryoou)
 [![Gmail Badge](https://img.shields.io/badge/-guifreitas343@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guifreitas343@gmail.com)](mailto:guifreitas343@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/GuiSatierf?label=follow&style=social)](https://github.com/GuiSatierf)
