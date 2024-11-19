@@ -40,5 +40,5 @@
 ## Onde me encontrar
 
 [![Discord Badge](https://img.shields.io/badge/-ryoou-7289DA?style=flat-square&logo=Discord&logoColor=white&link=https://discordapp.com/users/ryoou)](https://discordapp.com/users/ryoou)
-[![Gmail Badge](https://img.shields.io/badge/-guifreitas343@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guifreitas343@gmail.com)](mailto:guifreitas343@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-guideveloper11@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guideveloper11@gmail.com)](mailto:guideveloper11@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/GuiSatierf?label=follow&style=social)](https://github.com/GuiSatierf)
