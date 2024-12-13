@@ -3,7 +3,7 @@
 - 🤔 Explorando novas tecnologias e criando experiências web envolventes.
 - 🎓 Estudando **Engenharia de Software** na [Unicesumar](https://www.unicesumar.edu.br/home/).
 - 💼 Trabalhando como **Desenvolvedor Front-end** freelancer.
-- 🌱 Aprendendo mais sobre **JavaScript, Node e Desenvolvimento Responsivo**.
+- 🌱 Constantemente aprendendo mais sobre **JavaScript, Node e Desenvolvimento Responsivo**.
 
 ## Minhas Skills
 
