@@ -2,8 +2,8 @@
 
 - 🤔 Explorando novas tecnologias e criando experiências web envolventes.
 - 🎓 Estudando **Engenharia de Software** na [Unicesumar](https://www.unicesumar.edu.br/home/).
-- 💼 Trabalhando como **Desenvolvedor Front-end** freelancer.
-- 🌱 Constantemente aprendendo mais sobre **JavaScript, Node e Desenvolvimento Responsivo**.
+- 💼 Trabalhando como **Desenvolvedor Full Stack** freelancer.
+- 🌱 Constantemente aprendendo mais sobre a área.
 
 ## Minhas Skills
 
@@ -28,14 +28,7 @@
 **Ferramentas de desenvolvimento**
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=intellijidea&logoColor=000000)
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-333333?style=flat&logo=adobe-photoshop&logoColor=31A8FF)
-
-<br/>
-
-<a href="https://github.com/GuiSatierf" title="Perfil do Guilherme">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuiSatierf&theme=dracula&show_icons=true" />
-</a>
 
 ## Onde me encontrar
 
