@@ -31,6 +31,3 @@
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-333333?style=flat&logo=adobe-photoshop&logoColor=31A8FF)
 
 ## Onde me encontrar
-
-[![Discord Badge](https://img.shields.io/badge/-astrotravelerx-7289DA?style=flat-square&logo=Discord&logoColor=white&link=https://discordapp.com/users/astrotravelerx)](https://discordapp.com/users/astrotravelerx)
-
