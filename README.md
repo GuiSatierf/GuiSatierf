@@ -2,7 +2,7 @@
 
 - 🤔 Explorando novas tecnologias e criando experiências web envolventes.
 - 🎓 Estudando **Engenharia de Software** na [Unicesumar](https://www.unicesumar.edu.br/home/).
-- 💼 Trabalhando como **Desenvolvedor Full Stack** freelancer.
+- 💼 Trabalhando como **Desenvolvedor Full Stack**.
 - 🌱 Constantemente aprendendo mais sobre a área.
 
 ## Minhas Skills
